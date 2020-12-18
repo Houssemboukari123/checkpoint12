@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  background-color: aqua;
+  color: red;
+  border: green solid;
+  font-size: 50px;
+}
+.photo {
+  width: 200px;
+  height: 200px;
+}
